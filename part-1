@@ -1,0 +1,8 @@
+# 标量
+x = 1.4
+print(x)
+y = x + 1j*2.1
+print(y)
+print(y ** 2)  # y的平方
+print(y + 34 -2)
+print(np.sqrt(x))
